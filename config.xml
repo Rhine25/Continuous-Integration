@@ -1,0 +1,8 @@
+<build_configuration>
+	<build name="Example" location="RootDirectory/" cmakelists="CMakeListsDirectory/">
+        <configuration name="Debug" argument=""/>
+    </build>
+	<build name="Example2" location="RootDirectory/" cmakelists="CMakeListsDirectory/">
+        <configuration name="Release" argument=""/>
+    </build>
+</build_configuration>
